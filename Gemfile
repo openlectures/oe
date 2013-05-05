@@ -27,5 +27,6 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+gem 'haml-rails'
 # Use unicorn as the app server
 gem 'unicorn'
